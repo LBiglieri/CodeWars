@@ -6,3 +6,6 @@ Los desafíos se encuentran organizados por dificultad que es medida en Kyu, cua
 
 ## Cantidad de desafíos realizados 💪
 Actualmente hay 20 desafíos realizados en C#.
+
+## Profile Badge
+Mi Profile Badge de CodeWars : ![alt text](https://www.codewars.com/users/LBiglieri/badges/large)
